@@ -37550,15 +37550,15 @@ Returns and Refunds agent: Goodbye, and take care.","[AGENT] Thank you for calli
 [CUSTOMER] That's great. How do I proceed with the replacement request?
 [AGENT] I'll need to transfer you to our Returns and Refunds team. They will assist you with the replacement request and provide you with further instructions. Please hold on for a moment while I transfer the call.
 (Customer is transferred to the Returns and Refunds team)
-Returns and Refunds agent: Hello, this is Mary from the Returns and Refunds team. How may I assist you?
+Returns and Refunds [AGENT] Hello, this is Mary from the Returns and Refunds team. How may I assist you?
 [CUSTOMER] Hi Mary, I was transferred to you to request a replacement for a damaged shirt I received.
-Returns and Refunds agent: I see. May I have your order number and SKU number, please?
+Returns and Refunds [AGENT] I see. May I have your order number and SKU number, please?
 [CUSTOMER] Sure, my order number is [ID], and the SKU number is [ID].
-Returns and Refunds agent: Thank you for providing that information. I have processed your replacement request, and the item will be shipped to you within 3-5 business days. Is there anything else I can assist you with?
+Returns and Refunds [AGENT] Thank you for providing that information. I have processed your replacement request, and the item will be shipped to you within 3-5 business days. Is there anything else I can assist you with?
 [CUSTOMER] No, that's all for now. Thank you for your help, Mary.
-Returns and Refunds agent: You're welcome, and I apologize for the inconvenience caused. If you have any further questions or concerns, please don't hesitate to reach out to us. Have a great day!
+Returns and Refunds [AGENT] You're welcome, and I apologize for the inconvenience caused. If you have any further questions or concerns, please don't hesitate to reach out to us. Have a great day!
 [CUSTOMER] Thank you, Mary. You too. Goodbye.
-Returns and Refunds agent: Goodbye, and take care.",2757,486,23,0
+Returns and Refunds [AGENT] Goodbye, and take care.",2762,486,23,0
 Warranty,Warranty Claim Process,Steps to claim warranty for a product,Warranty Claim Process -> Steps to claim warranty for a product,neutral,Electronics,DSLR Camera,less,junior,"handles customer inquiries independently, possess solid troubleshooting skills, and seek guidance from more experienced team members when needed.","Customer: Hi, I need to claim warranty for my DSLR camera. Can you help me with the process?
 
 Agent: Hello! I'd be happy to assist you with that. May I please have your order number and the model of the camera?
